@@ -10,3 +10,4 @@ The game features a meta sound system with a stereo experience.
 Overlap and hit events are used to trigger specific functions.
 A line trace system is implemented for accurate blaster beam aiming.
 Enemy spawners are used to spawn enemies within levels using trigger events.
+
